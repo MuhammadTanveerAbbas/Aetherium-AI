@@ -1,4 +1,4 @@
-# Aetherium AI: AI Powered Content Creation Toolkit 🚀
+# Aetherium AI: The AI Powered Content Creation Toolkit 🚀
 
 **Aetherium AI** is a powerful, all in one Next.js application designed to supercharge your content creation process. Leverage a suite of cutting edge AI tools to effortlessly generate high quality articles, optimize content for SEO, create engaging video scripts, and much more.
 
