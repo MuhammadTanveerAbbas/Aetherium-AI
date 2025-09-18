@@ -35,7 +35,7 @@ export function Footer() {
             </Link>
           </Button>
           <Button variant="ghost" size="icon" asChild>
-            <Link href="https://x.com/m_tanveer" target="_blank" rel="noopener noreferrer" aria-label="X">
+            <Link href="https://x.com/m_tanveerabbas" target="_blank" rel="noopener noreferrer" aria-label="X">
               <XIcon className="h-5 w-5" />
             </Link>
           </Button>
