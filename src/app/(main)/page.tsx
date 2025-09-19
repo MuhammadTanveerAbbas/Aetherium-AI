@@ -92,7 +92,7 @@ export default function Home() {
     </h1>
 
     <p className="mx-auto max-w-[700px] text-lg sm:text-xl md:text-xl text-muted-foreground my-6">
-      Your all-in-one AI toolkit designed to make content creation simple, faster, 
+      Your all in one AI toolkit designed to make content creation simple, faster, 
       and more effective. Easily create, improve, and optimize your ideas while 
       boosting your workflow with powerful automation.
     </p>
