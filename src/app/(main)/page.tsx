@@ -81,7 +81,6 @@ export default function Home() {
       <section className="w-full py-20 md:py-28 lg:py-32">
         <div className="container px-4 md:px-6 text-center">
           <Link
-            href="/tools"
             className="inline-flex items-center gap-2 rounded-full bg-secondary px-4 py-2 text-sm font-medium text-primary shadow-lg ring-1 ring-primary/20 transition-all hover:bg-secondary/90 hover:shadow-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary mb-6"
           >
             <Wand2 className="h-4 w-4" />
@@ -90,9 +89,12 @@ export default function Home() {
           <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl font-headline bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent">
             Unleash Your Creative Superpowers
           </h1>
-          <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl my-6">
-            Your all in one AI toolkit for effortless content creation, optimization, and generation. Supercharge your workflow.
-          </p>
+          <p className="mx-auto max-w-[700px] text-lg sm:text-xl md:text-xl text-muted-foreground my-6">
+  Your all-in-one AI toolkit designed to make content creation simple, faster, 
+  and more effective. Easily create, improve, and optimize your ideas while 
+  boosting your workflow with powerful automation.
+</p>
+
           <Button size="lg" asChild>
             <Link href="/tools">Explore Tools</Link>
           </Button>
